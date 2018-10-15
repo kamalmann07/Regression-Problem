@@ -1,0 +1,1 @@
+This assignment will cover 3 forecasting approaches (Linear Regression, Multivariate Linear Regression and Support Vector Regression) which will be used to process a data-set containing academics performance of the students of a school. 
